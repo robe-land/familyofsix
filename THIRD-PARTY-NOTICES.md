@@ -54,9 +54,33 @@ repository; their use remains subject to the [Unsplash License](https://unsplash
 
 ## Social brand icon sprite
 
-`frontend/public/icons.svg` contains symbols identified as Bluesky, Discord,
-GitHub, and X. Their marks remain the property of their respective owners and
-are excluded from the root MIT license. The repository history does not
-identify the source, revision, or license of the SVG artwork; its
-redistribution basis remains unresolved. This notice does not assert a license
-for those symbols or their artwork.
+`frontend/public/icons.svg` is byte-for-byte identical to
+[`paad/zork/icons.svg`](https://github.com/Ovid/ovid.github.com/blob/ce35e6f42fbac34f08e79b1b20a60dfd4293c00f/paad/zork/icons.svg)
+in `Ovid/ovid.github.com` at commit
+`ce35e6f42fbac34f08e79b1b20a60dfd4293c00f` (2026-06-26; Git blob
+`e9522193d9f796a9748e9ad8c952a5df73c87db9`). The source repository
+distributes this file under the MIT License. Preserve this attribution and
+license when redistributing the sprite.
+
+Copyright (c) 201r Ovid
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+The Bluesky, Discord, GitHub, and X marks remain property of their respective
+owners. The MIT license does not grant trademark rights or imply endorsement.
