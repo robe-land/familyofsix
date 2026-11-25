@@ -5,6 +5,16 @@ The frontend and backend are separate applications: the React frontend presents 
 store experience, while FastAPI owns pricing, validation, order creation, payments,
 and other business rules.
 
+> Maintained by [Robe Land](https://github.com/robe-land).
+>
+> Original work is licensed under [LICENSE](LICENSE). Third-party
+> materials retain their applicable licenses and copyright notices; see
+> the notices accompanying those materials and the repository's
+> third-party attribution index, where applicable.
+
+The MIT license covers only original software. Separately owned business
+assets, product designs, photographs, logos, and branding are excluded.
+
 ## Architecture
 
 - **Frontend:** React, TypeScript, and Vite (`frontend/`)
